@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>etoshapovalov</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты</h1>
+      <p class="text-big"><b>ВСЕМ ПРИВЕТ, Я ВЛАД, СОЗДАЮ САЙТЫ НА ТИЛЬДЕ, А ТАК ЖЕ ЗАНИМАЮСЬ ВЕРСТКОЙ НА HTML И CSS </b></p>
+      <p><a class="link-text" href="http://daideneg228.tilda.ws"><b>Сайт</b></a> коллаборация "Кнопка dai deneg"</p>
+        <p><a class="link-text" href="https://abobebrus.github.io/kezing-eto/"><b>Сайт</b></a> опрос что такое "кезинг" </p>
+
+    </main>
+  </body>
+</html>
